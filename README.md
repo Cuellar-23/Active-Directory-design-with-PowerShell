@@ -19,8 +19,8 @@ Creating Security groups For the IT department via PowerShell  <br/>
 <img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20140628.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creation of user accounts and Account Passwords via PowerShell:  <br/>
+<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20141133.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
