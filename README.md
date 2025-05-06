@@ -8,7 +8,7 @@
 
 <p align="center">
 Creation of GreenEnergy_OU as well as the departments within Green Energy (Business, Engineering, IT. Research and development) via PowerShell : <br/>
-<img src="https://i.imgur.com/a/fVPSjRN.png](https://imgur.com/a/fVPSjRN)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/Screenshot%202025-05-06%20135057.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
